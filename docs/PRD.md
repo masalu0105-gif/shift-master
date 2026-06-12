@@ -264,6 +264,6 @@ model ShiftAssignment {
 
 ## 十、研究報告參考
 
-- 勞基法規則：`C:/Users/osun/Documents/一鍵排班表_研究報告.md`
+- 勞基法規則：本機研究報告《一鍵排班表_研究報告》（未納入 repo）
 - GitHub 參考專案：OR-Tools, j3soon/nurse-scheduling, Vhivi/ScheduleOptimization
 - 競品分析：NUEIP, MAYOHR, FREONE, Aibou Crew
